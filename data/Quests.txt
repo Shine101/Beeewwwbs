@@ -1,0 +1,5 @@
+<quest 1:Test Quest|5|0>
+Ziel1,Ziel2
+Geloest1, Geloest2
+Super test quest 1
+</quest>
